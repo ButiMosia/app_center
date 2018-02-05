@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{60F4286E-BC72-4C35-A584-018508BF4291}|Default">
+  <MonoDevelop.Ide.ItemProperties.HelloWorld PreferredExecutionTarget="Android.Android_Accelerated_Nougat" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="HelloWorld.cs">
+    <Files>
+      <File FileName="Properties/AndroidManifest.xml" Line="1" Column="1" />
+      <File FileName="Properties/AssemblyInfo.cs" Line="1" Column="1" />
+      <File FileName="HelloWorld.cs" Line="24" Column="24" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
