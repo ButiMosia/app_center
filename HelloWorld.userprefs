@@ -1,10 +1,13 @@
 ﻿<Properties StartupConfiguration="{60F4286E-BC72-4C35-A584-018508BF4291}|Default">
-  <MonoDevelop.Ide.ItemProperties.HelloWorld PreferredExecutionTarget="Android.Android_Accelerated_Nougat" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="HelloWorld.cs">
+  <MonoDevelop.Ide.ItemProperties.HelloWorld AndroidDesignerPreferredDevice="Nexus 4" PreferredExecutionTarget="Android.Android_Accelerated_Nougat" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="../../../../../Library/Frameworks/Xamarin.Android.framework/Versions/8.1.5-0/lib/xamarin.android/xbuild/Xamarin/Android/Xamarin.Android.Common.targets">
     <Files>
       <File FileName="Properties/AndroidManifest.xml" Line="1" Column="1" />
       <File FileName="Properties/AssemblyInfo.cs" Line="1" Column="1" />
-      <File FileName="HelloWorld.cs" Line="24" Column="24" />
+      <File FileName="HelloWorld.cs" Line="18" Column="5" />
+      <File FileName="../../../../../Library/Frameworks/Xamarin.Android.framework/Versions/8.1.5-0/lib/xamarin.android/xbuild/Xamarin/Android/Xamarin.Android.Common.targets" Line="1500" Column="2" />
+      <File FileName="Resources/Resource.Designer.cs" Line="1" Column="1" />
+      <File FileName="packages.config" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
