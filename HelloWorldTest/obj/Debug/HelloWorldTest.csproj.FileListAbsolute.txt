@@ -1,0 +1,10 @@
+/Users/butimosia/Documents/test/HelloWorld/HelloWorldTest/bin/Debug/HelloWorldTest.dll
+/Users/butimosia/Documents/test/HelloWorld/HelloWorldTest/bin/Debug/HelloWorldTest.pdb
+/Users/butimosia/Documents/test/HelloWorld/HelloWorldTest/bin/Debug/nunit.framework.dll
+/Users/butimosia/Documents/test/HelloWorld/HelloWorldTest/bin/Debug/Xamarin.UITest.dll
+/Users/butimosia/Documents/test/HelloWorld/HelloWorldTest/bin/Debug/nunit.framework.xml
+/Users/butimosia/Documents/test/HelloWorld/HelloWorldTest/bin/Debug/Xamarin.UITest.xml
+/Users/butimosia/Documents/test/HelloWorld/HelloWorldTest/obj/Debug/HelloWorldTest.csprojResolveAssemblyReference.cache
+/Users/butimosia/Documents/test/HelloWorld/HelloWorldTest/obj/Debug/HelloWorldTest.csproj.CoreCompileInputs.cache
+/Users/butimosia/Documents/test/HelloWorld/HelloWorldTest/obj/Debug/HelloWorldTest.dll
+/Users/butimosia/Documents/test/HelloWorld/HelloWorldTest/obj/Debug/HelloWorldTest.pdb
