@@ -26,6 +26,8 @@ namespace Mono.Samples.HelloWorld
 		
 		public static void UpdateIdValues()
 		{
+			global::Microsoft.AppCenter.Push.Android.Resource.Drawable.ic_stat_notify_dot = global::Mono.Samples.HelloWorld.Resource.Drawable.ic_stat_notify_dot;
+			global::Microsoft.AppCenter.Push.Android.Resource.String.library_name = global::Mono.Samples.HelloWorld.Resource.String.library_name;
 		}
 		
 		public partial class Attribute
@@ -45,7 +47,10 @@ namespace Mono.Samples.HelloWorld
 		{
 			
 			// aapt resource value: 0x7f020000
-			public const int icon = 2130837504;
+			public const int ic_stat_notify_dot = 2130837504;
+			
+			// aapt resource value: 0x7f020001
+			public const int icon = 2130837505;
 			
 			static Drawable()
 			{
@@ -76,11 +81,14 @@ namespace Mono.Samples.HelloWorld
 		public partial class String
 		{
 			
+			// aapt resource value: 0x7f040002
+			public const int app_name = 2130968578;
+			
 			// aapt resource value: 0x7f040001
-			public const int app_name = 2130968577;
+			public const int hello = 2130968577;
 			
 			// aapt resource value: 0x7f040000
-			public const int hello = 2130968576;
+			public const int library_name = 2130968576;
 			
 			static String()
 			{

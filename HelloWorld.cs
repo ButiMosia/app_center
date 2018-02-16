@@ -1,5 +1,3 @@
-using System;
-
 using Android.App;
 using Android.Content;
 using Android.OS;
@@ -7,6 +5,7 @@ using Android.OS;
 using Microsoft.AppCenter;
 using Microsoft.AppCenter.Analytics;
 using Microsoft.AppCenter.Crashes;
+using Microsoft.AppCenter.Push;
 
 namespace Mono.Samples.HelloWorld
 {
@@ -23,7 +22,8 @@ namespace Mono.Samples.HelloWorld
 	{
 		protected override void OnCreate (Bundle savedInstanceState)
 		{
-            AppCenter.Start("921e668d-d00c-4953-a8ab-a88fa5bae01f", typeof(Analytics), typeof(Crashes));
+            Push.SetSenderId("802849790066");
+            AppCenter.Start("921e668d-d00c-4953-a8ab-a88fa5bae01f", typeof(Analytics), typeof(Crashes), typeof(Push));
 
 			base.OnCreate(savedInstanceState);
 
