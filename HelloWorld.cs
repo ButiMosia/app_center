@@ -22,6 +22,7 @@ namespace Mono.Samples.HelloWorld
 	{
 		protected override void OnCreate (Bundle savedInstanceState)
 		{
+            Analytics.TrackEvent("Test event");
             Push.SetSenderId("802849790066");
             AppCenter.Start("921e668d-d00c-4953-a8ab-a88fa5bae01f", typeof(Analytics), typeof(Crashes), typeof(Push));
 
