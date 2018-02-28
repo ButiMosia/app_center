@@ -9,7 +9,7 @@ using Microsoft.AppCenter.Push;
 
 namespace Mono.Samples.HelloWorld
 {
-	// This is a test comment
+	// This is a second test comment
 	[Activity(Label = "Hello Android World", MainLauncher = true)]
 	[IntentFilter(new[] { Intent.ActionView },
 		Categories = new[] {
